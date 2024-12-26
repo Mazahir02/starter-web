@@ -11,3 +11,7 @@ Sample website with plenty of files for demos
 This section is for Deployments
 
 ## New Section
+
+## Copyright
+
+Mazahir Nazmi
